@@ -7,7 +7,7 @@ TARGET_SCREEN_WIDTH := 2560
 PRODUCT_RELEASE_NAME := Nexus10
 
 # Inherit some common Altair stuff.
-$(call inherit-product, vendor/altair/config/common_full_tablet_wifionly.mk)
+$(call inherit-product, vendor/altair/config/common_mini_tablet_wifionly.mk)
 
 # Enhanced NFC
 $(call inherit-product, vendor/altair/config/nfc_enhanced.mk)
