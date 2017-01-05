@@ -1,13 +1,13 @@
 [
     {
       "remote": "cm",
-      "repository": "CyanogenMod/android_kernel_samsung_manta",
+      "repository": "LineageOS/android_kernel_samsung_manta",
       "target_path": "kernel/samsung/manta",
       "revision": "cm-13.0"
     },
     {
       "remote": "cm",
-      "repository": "CyanogenMod/android_external_stlport",
+      "repository": "LineageOS/android_external_stlport",
       "target_path": "external/stlport",
       "revision": "cm-13.0"
     },
